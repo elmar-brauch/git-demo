@@ -1,1 +1,3 @@
 Hello CoP.
+
+Today is Thursday.
